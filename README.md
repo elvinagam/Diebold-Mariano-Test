@@ -1,6 +1,8 @@
 # Diebold-Mariano Test
 This Python function <i>dm_test</i> implements the Diebold-Mariano Test (1995) with modification suggested by Harvey et. al (1997) to statitsitcally identify forecast accuracy equivalance for 2 sets of predictions.
 
+https://www.kaggle.com/code/jorgesandoval/xgboost-vs-lightgbm-using-diebold-mariano-test
+
 ## Description
 
 Suppose that the difference between the first list of prediction and the actual values is e1 and the second list of prediction and the actual value is e2. The length of time-series is T. <br>
